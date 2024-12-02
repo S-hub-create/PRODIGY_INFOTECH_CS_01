@@ -1,4 +1,4 @@
-# Enhancing Data Security with PyShiftCipher
+# Enhancing Data Security with ShiftCipher
 
 # Caesar Cipher Algorithm
 
@@ -11,3 +11,7 @@ To encrypt a message using the Caesar Cipher, you choose a shift value and apply
 
 ### Decryption
 Decryption is the reverse process of encryption. By knowing the shift value, you can shift the letters in the encoded message back by the same number of positions to reveal the original plaintext. Using the previous example, "KHOOR" with a shift of 3 would be decrypted back to "HELLO". This simple yet effective method ensures that the message remains confidential as long as the shift value is kept secret.
+
+## Steps for execution
+
+
